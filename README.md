@@ -7,7 +7,7 @@ For a closer look at my professional journey, you can explore my LinkedIn profil
 
 ### Skills and Eperience:
 
-* ➡️ : .Net/Asp.net
+* ➡️ : .Net/Asp.net/Angular
 * 💻: HTML/CSS/Python/JavaScript
 
 
